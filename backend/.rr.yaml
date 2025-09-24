@@ -1,0 +1,9 @@
+server:
+  command: "php grpc-server.php"
+  env:
+    GRPC_VERBOSITY: debug
+
+grpc:
+  listen: "tcp://0.0.0.0:9001"
+  proto:
+    - "proto/service.proto"
