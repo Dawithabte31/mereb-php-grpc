@@ -1,4 +1,4 @@
-# Mereb Technologies - gRPC Challenge
+# gRPC Challenge
 
 ## Setup Instructions
 
